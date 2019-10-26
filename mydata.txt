@@ -1,0 +1,8 @@
+This is to test opening '.txt' files in python
+->Adding more code to test readline(function):
+-->Hello World
+-->Hola
+
+-->above was the 4th line (to test how blank spaces are read)
+-->also, even if the 4th wasn't line blank, does python read
+-->it as line 3(0,1,2,3) or line 4?
